@@ -1,4 +1,22 @@
-header{
-  background-color: aquamarine ;
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.cabeçalho{
+  background-color: whitesmoke ;
   color: black;
+  display: flex ;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.logotipo{
+  width: 10%;
+}
+.cabeçalho-lista-iten{
+  display: inline-block;
+  margin: 50px 30px;
+  font-size: 17px;
 }
