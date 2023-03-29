@@ -6,7 +6,7 @@
 
 .cabeçalho{
   background-color: whitesmoke ;
-  color: black;
+  color: rgb(80, 79, 79);
   display: flex ;
   justify-content: space-between;
   padding: 10px;
@@ -19,4 +19,29 @@
   display: inline-block;
   margin: 50px 30px;
   font-size: 17px;
+}
+
+
+.img-GAN-001{
+ width: 30%;
+
+}
+.GANHO-DE-MASSA{
+  background-image: linear-gradient(black,rgb(80, 79, 79));
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 0 0 50% 0;
+}
+.textos-separado-img{
+  width: 75%;
+
+}
+.img-GAN-MASSA{
+  display: flex;
+  justify-content: end;
+  padding: 60px 0 0 0;
+}
+.GANHO-DE-MASSA-alimentos{
+  padding: 30px 0;
 }
