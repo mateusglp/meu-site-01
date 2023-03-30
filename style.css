@@ -10,6 +10,11 @@
   display: flex ;
   justify-content: space-between;
   padding: 10px;
+  list-style: none;
+}
+.LINK{
+  text-decoration: none;
+  color: rgb(80, 79, 79);
 }
 
 .logotipo{
@@ -19,8 +24,11 @@
   display: inline-block;
   margin: 50px 30px;
   font-size: 17px;
+ 
 }
-
+body{
+  font-family: 'Poppins', sans-serif;
+}
 
 .img-GAN-001{
  width: 30%;
